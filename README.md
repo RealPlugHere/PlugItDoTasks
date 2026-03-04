@@ -13,7 +13,7 @@ A Python-based utility For Usage Of Tasks/To-Do list
    *(Note: You may see a "Windows Protected Your PC" warning. Click 'More Info' -> 'Run Anyway'.)*
 
 ### For Linux Users
-1. Download the "PlugItDoTasks-Linux" Right Before This README.
+1. Download the  `PlugItDoTasks-Linux` Right Before This README.
 2. Open your terminal in the download folder.
 3. Make it executable and run:
    ```bash
