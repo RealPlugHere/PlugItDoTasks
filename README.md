@@ -1,6 +1,6 @@
 # PlugDoItTasks 🛠️
 
-A Python-based utility for [Briefly describe what your task manager/emulator does here].
+A Python-based utility For Usage Of Tasks/To-Do list
 
 ## 🚀 How to Run
 
@@ -21,7 +21,7 @@ A Python-based utility for [Briefly describe what your task manager/emulator doe
    
 # PlugDoItTasks THE RELEASES LINK WAY! 🛠️
 
-A Python-based utility for [Briefly describe what your task manager/emulator does here].
+A Python-based utility For Usage Of Tasks/To-Do list
 
 ## 🚀 How to Run
 
