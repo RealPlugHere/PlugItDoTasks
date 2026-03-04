@@ -6,7 +6,7 @@ A Python-based utility For Usage Of Tasks/To-Do list
 
 ### For Windows Users
 1. Go to the Files Before This README.
-2. Download `PlugItDoTasks`.
+2. Download `PlugItDoTasks` Or`PlugItDoTasks.exe` .
 3. Double-click to run! 
    *(Note: You may see a "Windows Protected Your PC" warning. Click 'More Info' -> 'Run Anyway'.)*
 
