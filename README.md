@@ -20,9 +20,8 @@ A **Python-based utility** For Usage Of **Tasks/To-Do list**
    ./PlugItDoTasks-Linux
 
 
-   # PlugItDoTasks THE RELEASES LINK WAY! 🛠️
 
-# **WARNING: THIS IS MY FIRST REPO AND MY FIRST APP IN PYTHON AND ITS IN PRE-RELEASE SO EXPECT BUGS!**
+# PlugItDoTasks THE RELEASES LINK WAY! 🛠️
 
 A **Python-based utility** For Usage Of **Tasks/To-Do list**
 
