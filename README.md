@@ -13,7 +13,7 @@ A **Python-based utility** For Usage Of **Tasks/To-Do list**
 
 ### For Linux Users
 1. Download the **`PlugItDoTasks-Linux`** Right Before This README.
-2. Open your **terminal** in the download folder. 
+2. Open your **terminal** in the folder you downloaded at. 
 3. **Make it executable** and run:
    ```bash
    chmod +x PlugItDoTasks-Linux
@@ -33,8 +33,8 @@ A **Python-based utility** For Usage Of **Tasks/To-Do list**
 3. **Double-click to run!** *(Note: You may see a "Windows Protected Your PC" warning. Click **'More Info'** -> **'Run Anyway'**.)*
 
 ### For Linux Users
-1. Download the **`PlugItDoTasks-Linux`** binary from the **Releases** section.
-2. Open your **terminal** in the download folder.
+1. Download the **`PlugItDoTasks-Linux`** binary from the **[Releases](https://github.com/ZaedStillLaughs/PlugDoItTasks/releases)** section.
+2. Open your **terminal** in the folder you downloaded at.
 3. **Make it executable** and run:
    ```bash
    chmod +x PlugItDoTasks-Linux
